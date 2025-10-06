@@ -12,7 +12,7 @@
   
     'version': '19.0.0.1',
   
-    'website :"https://github.com/ingegniamo/testsh/edit/19.0/__manifest__.py",
+    'website' :"https://github.com/ingegniamo/testsh/edit/19.0/__manifest__.py",
 
     # any module necessary for this one to work correctly
     'depends': [],
