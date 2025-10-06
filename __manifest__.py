@@ -10,7 +10,7 @@
 
     'category': '',
   
-    'version': '18.0.0.1',
+    'version': '19.0.0.1',
   
     'website'METTERE LINK GITHUB completo: "https://github.com/ingegniamo",
 
