@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Test per lezioni SH",
     
     'summary': "",
   
@@ -12,7 +12,7 @@
   
     'version': '19.0.0.1',
   
-    'website'METTERE LINK GITHUB completo: "https://github.com/ingegniamo",
+    'website :https://github.com/ingegniamo/testsh/edit/19.0/__manifest__.py",
 
     # any module necessary for this one to work correctly
     'depends': [],
